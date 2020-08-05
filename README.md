@@ -8,7 +8,7 @@ It was found that the main expectation of the Kyoto Protocol was to reduce at le
 
 ## Features
 
-* Data cleaning with python
+* Data wrangling with python
 * Visualizations made with plotly, matplotlib and seaborn
 * Use of Goolge API
 
@@ -19,4 +19,6 @@ It was found that the main expectation of the Kyoto Protocol was to reduce at le
 
 ## Outcomes
 
+Example of scatter plot made with matplotlib of average exposure to PM2.5 vs death rates 
 
+![Image2.png](project_1_kyoto/visualizations/Image2.png)
