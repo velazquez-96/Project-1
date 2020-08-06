@@ -1,6 +1,6 @@
 # Kyoto Protocol - World performance analysis
 
-The project analyse the effects of world accords on global pollution through different visualizations. Also, an interface wad created to observe the perfomance of specific countries depending on user input. 
+The project was focused on studying the effects of world accords on global pollution by wrangling, analyzing and visualizing data from distinct sources. Also, an interface was created to observe the perfomance of specific countries depending on user input. 
 
 ## Motivation
 
