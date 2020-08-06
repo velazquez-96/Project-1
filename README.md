@@ -22,3 +22,7 @@ It was found that the main expectation of the Kyoto Protocol was to reduce at le
 Example of scatter plot made with matplotlib of average exposure to PM2.5 vs death rates 
 
 ![Image2.png](project_1_kyoto/visualizations/Image2.png)
+
+Generated Map to visualize mean exposure to PM2.5
+
+![Image3.png](project_1_kyoto/visualizations/Image3.png)
