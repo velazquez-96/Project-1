@@ -27,7 +27,11 @@ It was found that the main expectation of the Kyoto Protocol was to reduce at le
 
 ![Image3.png](project_1_kyoto/visualizations/Image3.png)
 
-* Google Map of to visualize exposure to particulate matter 2.5 according to user input
+* Generated Map to visualize World average death rate per 100,000 population
+
+![world_average_death_rate.png](project_1_kyoto/visualizations/world_average_death_rate.png)
+
+* Google Map to visualize exposure to particulate matter 2.5 according to user input
 
 ![gmap_mean_exp_kyoto_countries.png](project_1_kyoto/visualizations/gmap_mean_exp_kyoto_countries.png)
 
